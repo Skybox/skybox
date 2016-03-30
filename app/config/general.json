@@ -1,0 +1,6 @@
+{
+  "install": "true",
+  "staticDir": "../public/dist",
+  "sessionSecret": "Somewierd9252",
+  "domain": "http://localhost"
+}

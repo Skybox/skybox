@@ -1,0 +1,7 @@
+{
+  "steam": {
+    "apiKey": "350E741A7151B7F03D46A96D41F1662E",
+    "returnURL": "http://localhost/api/auth/steam/return",
+    "realm": "http://localhost"
+  }
+}
